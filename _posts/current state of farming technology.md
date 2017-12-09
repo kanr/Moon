@@ -3,7 +3,7 @@ layout: post
 title:  "Future Farming and Smart Agriculture Mega Trend"
 date:   2017-12-01
 excerpt: "First prototype, home hydroponic food system"
-project: true
+project: false
 tag:
 - Smart Agriculture
 - hydroponics
