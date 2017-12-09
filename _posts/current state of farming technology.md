@@ -1,5 +1,17 @@
+---
+layout: post
+title:  "Future Farming and Smart Agriculture Mega Trend"
+date:   2017-12-01
+excerpt: "First prototype, home hydroponic food system"
+project: true
+tag:
+- Smart Agriculture
+- hydroponics
+
+---
+
 # Agriculture and IoT
-for the next generation of farms and farmers. Bringing information technology, industrial automation, and innvoative sensing together we are creating the farming systems of the future.
+ Bringing information technology, industrial automation, and innovative sensing together we are creating the farming systems of the future.
 
 
 * [Wired - ironOx](https://www.wired.com/story/the-hydroponic-robotic-future-of-farming-in-greenhouses-at-iron-ox/)
@@ -8,10 +20,4 @@ for the next generation of farms and farmers. Bringing information technology, i
 * [WGI Innovation in farming](http://www.wginnovation.com/innovators)
   * [RootsTalk ](http://www.roots-talk.com/)
 * [Ocean Underwater Farming](https://www.fastcompany.com/3048234/there-are-secret-underwater-gardens-off-the-coast-of-italy-where-diver-farmers-are-growing-v)
-
-What are the [costs](http://irrigation.wsu.edu/Content/Fact-Sheets/Set-Move-Management.pdf) and benefits of retrofitting a water wheel line system *vs.* the costs and benefits of adopting a new irrigation system entirely?
-what are the *crops* that benefit most from the sprinkler based wheel line system?
-What does the future hold for the wheel line *process*?
-Why has [wheel line innovation](http://alfalfa.ucdavis.edu/+symposium/proceedings/1998/98-221.pdf) not *already* occurred?
-
-[Robots on the farm](https://thescene.com/watch/wired/this-construction-digger-drives-itself)
+* [Robots on the farm](https://thescene.com/watch/wired/this-construction-digger-drives-itself)
