@@ -16,9 +16,10 @@ comments: true
 
 ![STORC Aquaponics Monitoring System (water computer)]( )    
 
-<center><b>Moon</b> This is an evolving system developed by students at California Status University Sacramento (CSUS) at the Sustainable Research Optimization Center (STORC).</center>
+![System diagram](assets/img/watercomputer.png)
+This is an evolving system developed by students at California Status University Sacramento (CSUS) at the Sustainable Research Optimization Center (STORC).</center>
 
-The repository for this project can be found at: ![STORC](csus.edu/storc) 
+The repository for this project can be found at: ![STORC](csus.edu/storc)
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
 
