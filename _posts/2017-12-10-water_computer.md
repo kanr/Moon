@@ -16,12 +16,13 @@ comments: true
 
 ![STORC Aquaponics Monitoring System (water computer)]( )    
 
-![System diagram](assets/img/watercomputer.png)
-This is an evolving system developed by students at California Status University Sacramento (CSUS) at the Sustainable Research Optimization Center (STORC).</center>
+![System diagram](https://github.com/kanr/kanr.github.io/blob/master/assets/img/watercomputer.png)
+
+This is an evolving system developed by students at California Status University Sacramento (CSUS) at the Sustainable Research Optimization Center (STORC).
 
 The repository for this project can be found at: ![STORC](csus.edu/storc)
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
+
 
 ## Repository(s)
 * This project is still under active development and as such is not contained to a single version or codebase.
