@@ -28,7 +28,7 @@ For me, audiobooks are  a way for me to consume new ideas or stories that fuel m
 
     *A short summary of some of the key ideas from the book can be found in [this article](https://hbr.org/2016/05/the-impact-of-the-blockchain-goes-beyond-financial-services) from the Harvard Business Review.*
 
-    > This book is a fantastic high level overview of blockchain technology and the first generations of blockchain companies. The narrative also helped me think very deeply about the full scope of the paradigm shift that the blockchain promises to create. This article from [forbes](https://www.forbes.com/sites/perianneboring/2016/10/06/top-25-quotes-from-don-tapscott-and-alex-tapscotts-blockchain-revolution/#1adc4f95164a).
+     This book is a fantastic high level overview of blockchain technology and the first generations of blockchain companies. The narrative also helped me think very deeply about the full scope of the paradigm shift that the blockchain promises to create. This article from [forbes](https://www.forbes.com/sites/perianneboring/2016/10/06/top-25-quotes-from-don-tapscott-and-alex-tapscotts-blockchain-revolution/#1adc4f95164a).
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Pl8OlkkwRpc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
