@@ -10,16 +10,11 @@ tag:
 comments: false
 ---
 
-## HTML Elements
-
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
-
-For me, audiobooks are  a way for me to consume new ideas or stories that fuel my growth and thinking.
-
-### research different audiobooks platforms, google vs audible?
 
 
 ## Audiobook List
+
+The purpose of this post is to share with you my favorite audiobooks. I have found these to be exceptionally insightful and inspiring. For me, audiobooks are  a way for me to consume new ideas or stories that fuel my growth and thinking. Most recently I have been learning about the blockchain and crypto currencies and the next generation of the internet. 
 
 ### 1. [The Information: A history, a Theory, a Flood - James Gliek](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood)
 
