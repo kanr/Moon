@@ -28,7 +28,3 @@ The repository for this project can be found at: ![STORC](csus.edu/storc)
 * This project is still under active development and as such is not contained to a single version or codebase.
 
 ---
-
-## License
-
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.

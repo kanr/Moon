@@ -6,6 +6,7 @@ excerpt: "The audiobooks listed here are those I have gleaned a great deal of in
 tag:
 - audiobooks
 - technology
+- Blockchain
 comments: false
 ---
 
@@ -34,7 +35,7 @@ This book is a fantastic high level overview of blockchain technology and the fi
 
 ### 3. [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond - Chris Burnskie ](https://www.bitcoinandbeyond.com/)
 
-In Crypto assets, Chris does a great job at introducing the investors perspective on the blockchain and crypto currencies. The blockchain works better the more people participate, so it's in all of our interests to help inexperienced and experienced investors alike understand the complex technology. Once one understands the blockchain it is clear how it fits into the modern investment portfolio. 
+In Crypto assets, Chris does a great job at introducing the investors perspective on the blockchain and crypto currencies. The blockchain works better the more people participate, so it's in all of our interests to help inexperienced and experienced investors alike understand the complex technology. Once one understands the blockchain it is clear how it fits into the modern investment portfolio.
 
 *summarize key ideas*
 

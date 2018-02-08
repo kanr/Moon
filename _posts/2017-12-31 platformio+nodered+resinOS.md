@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Syntax Highlighting Post
-date: 2013-08-16
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
-tags: [sample post, code, highlighting]
+date: 2018-02-07
+excerpt: "Internet of things prototype architecture."
+tags: [IoT, resin.io, arduino, raspberry pi]
 comments: true
+
+
 ---
