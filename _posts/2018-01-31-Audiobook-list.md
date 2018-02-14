@@ -18,11 +18,11 @@ The purpose of this post is to share with you my favorite audiobooks. I have fou
 
 ---
 
-### 1. [The Information: A history, a Theory, a Flood - James Gliek](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood)
+### 1. [The Information: A history, a Theory, a Flood - James Gliek](http://amzn.to/2ErRjvG)
 
 ---
 
-### 2. [Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World - Dan Tapscott, Alex Tapscott](http://amzn.to/2Hdjkov)
+### 2. [Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World - Don Tapscott, Alex Tapscott](http://amzn.to/2Hdjkov)
 
 *A short summary of some of the key ideas from the book can be found in [this article](https://hbr.org/2016/05/the-impact-of-the-blockchain-goes-beyond-financial-services) from the Harvard Business Review*
 
@@ -41,6 +41,6 @@ In a profound and effective manner, Chris and Jack align traditional financial t
 
 ---
 
-### 4. [Algorithms to Live By: The computer science of human decisions - Brian Christian and Tom Griffiths](http://algorithmstoliveby.com/)
+### 4. [Algorithms to Live By: The computer science of human decisions - Brian Christian and Tom Griffiths](http://amzn.to/2Cjl7EP)
 
 *Short description or review*     
