@@ -32,7 +32,7 @@ This book is a fantastic high level overview of blockchain technology and the fi
 
 ---
 
-### 3. [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond - Chris Burnskie ](<a target="_blank" href="https://www.amazon.com/gp/product/B07848GCYN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07848GCYN&linkCode=as2&tag=connoraitken-20&linkId=9837c797d9fd4ed7aecf9d8d01639a28">Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=connoraitken-20&l=am2&o=1&a=B07848GCYN" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />)
+### 3. [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond - Chris Burnskie ](http://amzn.to/2EmQ00K)
 
 In a profound and effective manner, Chris and Jack align traditional financial thinking with the disruptive technology of the Blockchain. Anyone interested in financial well being should read *Cryptoassets*. This book cuts through the jargon and the hype surrounding the Blockchain in popular media. Readers can expect to walk away armed with the knowledge necessary to profit exponentially from the Blockchain.
 
