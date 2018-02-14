@@ -16,8 +16,11 @@ comments: false
 
 The purpose of this post is to share with you my favorite audiobooks. I have found these to be exceptionally insightful and inspiring. For me, audiobooks are  a way for me to consume new ideas or stories that fuel my growth and thinking. Most recently I have been learning about the blockchain and crypto currencies and the next generation of the internet.
 
+---
+
 ### 1. [The Information: A history, a Theory, a Flood - James Gliek](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood)
 
+---
 
 ### 2. [Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World - Dan Tapscott, Alex Tapscott](http://blockchain-revolution.com/)
 
@@ -27,6 +30,8 @@ This book is a fantastic high level overview of blockchain technology and the fi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pl8OlkkwRpc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+---
+
 ### 3. [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond - Chris Burnskie ](https://www.bitcoinandbeyond.com/)
 
 In a profound and effective manner, Chris and Jack align traditional financial thinking with the disruptive technology of the Blockchain. Anyone interested in financial well being should read *Cryptoassets*. This book cuts through the jargon and the hype surrounding the Blockchain in popular media. Readers can expect to walk away armed with the knowledge necessary to profit exponentially from the Blockchain.
@@ -34,6 +39,7 @@ In a profound and effective manner, Chris and Jack align traditional financial t
 > "Anyone with a practical of theoretical interest in finacial markets should know about cryptoassets. Burnskie and Tatar do an excellent job explaining this brave new world to us."  
 - **HARRY MAX MARKOWITZ**, winner of the Nobel Prize in Economics and founder of Modern Portfolio Theory
 
+---
 
 ### 4. [Algorithms to Live By: The computer science of human decisions - Brian Christian and Tom Griffiths](http://algorithmstoliveby.com/)
 
