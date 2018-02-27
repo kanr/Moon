@@ -2,7 +2,11 @@
 
 relevant links to github tutorials, essays, graphics and info. 
 
+Git has been one of the more interesting pieces of technology that I have picked up on my journey. It is extremely powerful but not user friendly from those of us who grew up on windows. It is hard to imagine a world now without git but without GitHub it is likely Git would have remained relegated to linux die hard and the Kernel dev team. 
 
+This list was created mostly for my own personal use but like many of the authors bellow I want to share my perspectives on this tool as well in the hopes that my insights may inspire yours. 
+
+For a full text introduction to git I recommend starting with [Pro Git](https://git-scm.com/book/en/v2)
 
 ### [Git Animation step-by-step getting started](http://pel-daniel.github.io/git-init/)
 
