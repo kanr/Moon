@@ -1,6 +1,6 @@
 relevant links to github tutorials, essays, graphics and info. 
 
-#[Interactive GitHub Illustrator](https://onlywei.github.io/explain-git-with-d3/) 
+# [Interactive GitHub Illustrator](https://onlywei.github.io/explain-git-with-d3/) 
 
 [git-github](https://notes.almccann.com/git-github/)
 
