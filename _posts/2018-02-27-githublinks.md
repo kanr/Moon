@@ -1,4 +1,4 @@
-# A Curated list of Git and GitHub
+# A Curated list of Git and GitHub resources
 
 relevant links to github tutorials, essays, graphics and info. 
 
