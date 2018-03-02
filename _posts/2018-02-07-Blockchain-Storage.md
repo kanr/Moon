@@ -27,15 +27,6 @@ With the [Dropbox IPO](https://www.reuters.com/article/us-dropbox-ipo/dropbox-fi
 
 ***
 
-The cloud storage providers of today are massive in scale and provide access to networks that will deliver content to users regionally through the global operation. The decentralized property of the blockchain provides this by default, along with security and privacy by encrypting your data. Centralized cloud storage providers will encrypt your data for you, but not for free and not by default. 
-
-The use cases for decentralized storage networks are only beginning to become apparent. One such use is public records. Documents could be uploaded to storage networks and remain in perpetuity with special contracts that persist across the network.
-
-Token reports
-https://medium.com/tokenreport/filecoin-v-sia-storj-maidsafe-the-crowded-push-for-decentralized-storage-7157eb5060c9
-
-Analysis Pieces
-https://sloanreview.mit.edu/article/blockchain-data-storage-may-soon-change-your-business-model/
-https://www.coindesk.com/blockchain-bloat-ethereum-clients-tackling-storage-issues/
+The cloud storage providers of today are massive in scale and provide access to networks that will deliver content to users regionally through the global operation. The decentralized property of the blockchain provides this by default, along with security and privacy by encrypting your data. Centralized cloud storage providers will encrypt your data for you, but not for free and not by default. All blockchains, even bitcoin, are essentially distributed databases. Storage blockchains will be a cornerstone technology in the next generation, decentralized web. 
 
 ---
