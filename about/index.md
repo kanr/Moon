@@ -15,7 +15,7 @@ comments: false
 <b>Duties:</b> Systems administration, network administration, remote development  
 <b>Skills:</b> Windows and Linux systems administration
 
-* [California State University Sacramento]()  January 2016 – December 2016
+* [California State University Sacramento]()  January 2016 – December 2016  
 **Sustainable Technology Optimization Research Center [STORC](http://csus.edu/storc/people)**  
 <b>Title:</b> System Support Coordinator  
 <b>Duties:</b> Project coordinator, c/c++ development with arduino, IoT software and hardware R&D
