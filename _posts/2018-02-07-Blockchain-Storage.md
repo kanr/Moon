@@ -8,8 +8,7 @@ comments: true
 ---
 
 
-Along with crypto currencies the Blockchain has inspired innovations in cloud storage. A number of startups have entered the space with more sure to follow. Sia, Storj, Filecoin, and Maidsafe are the largest projects I have found to date and the ones I will be introducing to you here.
-
+With the [Dropbox IPO](https://www.reuters.com/article/us-dropbox-ipo/dropbox-files-for-ipo-of-up-to-500-million-idUSKCN1G72NF) hitting the news wire this week I decided to take some time and see what the current state of Blockchain storage technologies are. There are a number of new projects in development that seek to make a new decentralized storage layer for the internet. Centralized storage providers like Dropbox, Google, Amazon, etc… will have to compete with these new Blockchain storage networks and the businesses that grow on top of them.  Sia, Storj, Filecoin, and Maidsafe are the largest projects I have found to date and the ones I will be introducing to you here.
 ***
 
 **Sia (SIA)** is a blockchain startup headquartered in Boston Massachusetts. They are promising to reinvent could storage and their stated hope is: "…to become the backbone storage layer of the internet". Their storage technology breaks your files apart into fragments and uploads it to the Sia network where its spread to 30 different hosts. Two thirds of those hosts can go offline before you lose access to your data. Unlike consumer cloud storage, all data on the Sia network is encrypted and secure. Smart contracts are made for hosts and renters that determine pricing and uptime commitments. These contracts are executed off chain in a method similar to bitcoins lightning network. This means that Sias on chain token transactions will not be impacted by storage micro transactions. As a disincentive to go offline or tamper with data, hosts are required to stake Sia against the storage contract.
@@ -28,9 +27,9 @@ Along with crypto currencies the Blockchain has inspired innovations in cloud st
 
 ***
 
-The uses cases for secure decentralized public and private cloud storage are many. I find myself wondering what amount of storage one would need to rent out in order to at least offset the costs of ones own use.
+The cloud storage providers of today are massive in scale and provide access to networks that will deliver content to users regionally through the global operation. The decentralized property of the blockchain provides this by default, along with security and privacy by encrypting your data. Centralized cloud storage providers will encrypt your data for you, but not for free and not by default. 
 
-One such use is public records. Documents could be uploaded to storage networks and remain in perpetuity with special contracts that persist across the network.
+The use cases for decentralized storage networks are only beginning to become apparent. One such use is public records. Documents could be uploaded to storage networks and remain in perpetuity with special contracts that persist across the network.
 
 Token reports
 https://medium.com/tokenreport/filecoin-v-sia-storj-maidsafe-the-crowded-push-for-decentralized-storage-7157eb5060c9
