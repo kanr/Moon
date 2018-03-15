@@ -14,7 +14,7 @@ tag:
 comments: true
 ---
 
-![STORC Aquaponics Monitoring System (water computer)]( )    
+![STORC Aquaponics Monitoring System (water computer)](/assets/img/watercomputer.png)    
 
 ![System diagram](https://github.com/kanr/kanr.github.io/blob/master/assets/img/watercomputer.png)
 
