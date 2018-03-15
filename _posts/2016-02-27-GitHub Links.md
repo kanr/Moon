@@ -2,19 +2,23 @@
 
 relevant links to github tutorials, essays, graphics and info. 
 
-Git has been one of the more interesting pieces of technology that I have picked up on my journey. It is extremely powerful but not user friendly from those of us who grew up on windows. It is hard to imagine a world now without git but without GitHub it is likely Git would have remained relegated to linux die hard and the Kernel dev team. 
+Git has been one of the more interesting pieces of technology that I have picked up on my journey. It is extremely powerful but not user friendly from those of us who grew up on windows. It is hard to imagine a world now without git but without GitHub it is likely Git would have remained relegated to linux die hard and the [Kernel dev team](https://www.youtube.com/watch?v=P_02QGsHzEQ). 
 
-This list was created mostly for my own personal use but like many of the authors bellow I want to share my perspectives on this tool as well in the hopes that my insights may inspire yours. 
+This post was created to curate my favorite git related learning resources and content.
 
-For a full text introduction to git I recommend starting with [Pro Git](https://git-scm.com/book/en/v2)
+### Quick Start
 
-### [Git Animation step-by-step getting started](http://pel-daniel.github.io/git-init/)
+For a quick start introduction I highly recommend: [GitHub interactive turorial](https://try.github.io/levels/1/challenges/1) Additionally, you can opt for the [Git Animation step-by-step getting started](http://pel-daniel.github.io/git-init/) for those not used to typing computer commands. 
+ 
+### Practicing
 
-The getting started walkthrough is a good place for the absolute beginner. The reader is introduced to the git workflow by example without having to enter commands. 
+[Interactive GitHub Illustrator](https://onlywei.github.io/explain-git-with-d3/) 
 
-### [Interactive GitHub Illustrator](https://onlywei.github.io/explain-git-with-d3/) 
+This interaction allows the user to stretch their legs with git commands and see the results visualized in the browser. This project is another place to practice git commands and see tem visualized. 
 
-This interaction allows the user to stretch their legs with git commands and see the results visualized in the browser. 
+### Going Further
+
+At this point you should know whether you want to be a visual git user, and whether you are going to learn to use the command line. The [git workflow ](https://www.atlassian.com/git/tutorials/comparing-workflows) is very powerful and I believe in the value of both approaches to using git. 
 
 
 
@@ -37,6 +41,9 @@ This interaction allows the user to stretch their legs with git commands and see
 [dropbox-as-a-true-git-server](http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/)
 
 [git-rebase-tutorial](http://ianmiell.github.io/git-rebase-tutorial/)
+
+# GitHub
+
 
 ## Reference
 
