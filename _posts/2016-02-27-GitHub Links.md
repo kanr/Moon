@@ -42,6 +42,8 @@ At this point you should know whether you want to be a visual git user, and whet
 
 [git-rebase-tutorial](http://ianmiell.github.io/git-rebase-tutorial/)
 
+[git-school](https://github.com/git-school)
+
 # GitHub
 
 
