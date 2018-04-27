@@ -28,6 +28,8 @@ The purpose of this post is to share with you my favorite audiobooks. I have fou
 
 This book is a fantastic high level overview of blockchain technology and the first generation of blockchain companies. The narrative also helped me think very deeply about the full scope of the paradigm shift that the blockchain promises to create. This article from [forbes](https://www.forbes.com/sites/perianneboring/2016/10/06/top-25-quotes-from-don-tapscott-and-alex-tapscotts-blockchain-revolution/#1adc4f95164a).
 
+[How blockchains could change the world](https://www.mckinsey.com/industries/high-tech/our-insights/how-blockchains-could-change-the-world)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pl8OlkkwRpc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
